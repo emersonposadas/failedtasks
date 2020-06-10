@@ -1,0 +1,5 @@
+IAMPolicy.json
+
+# Python
+*.pyc
+Pipfile.lock

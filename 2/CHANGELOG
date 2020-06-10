@@ -1,0 +1,11 @@
+[15 OCT 2019]
+DONE:
+- Added a pod from terraform provisioner
+- Renamed a typo on web-application-build directory
+
+TODO:
+- Add web application service
+- Add variable file for the minikube IP
+- Grant minikube with access to pull the web-application-build
+- Run 3 replicas of the cluster
+- Document the deployment steps
